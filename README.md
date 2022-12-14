@@ -21,7 +21,7 @@
 ### Problem Formulation
 * Three different models were utilized
 * First, used "GradientBoostingClassifier" and "RandomForestClassifier" because they were both mentioned on the Kaggle website.
-* Lastly, used "LinearDiscriminantAnalysis" as it was used in class
+* Lastly, used "LinearDiscriminantAnalysis".
 
 ### Training
 * The three models were trained using the curated data after the clean-up step.
