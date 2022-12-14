@@ -50,7 +50,7 @@ The models trained:
 ### Results
 * The prediction on the test set of each model were each saved to a .csv file which can be accessed through this github repo
 * Furthermore, a distribution of the predicted prices on the testing set was also found
-*
+
 Gradient Boosting:
 
 ![Gradient](https://user-images.githubusercontent.com/98187543/207729738-aaf1d9a5-9e54-4211-af82-340328b9041b.jpg)
