@@ -26,7 +26,7 @@
 ### Training
 * The three models were trained using the curated data after the clean-up step.
 * The GradientBoostingClassifier took by far the longest to train, it nearly took 15 minutes for the model to finish training.
-* The other two classifiers were quicker to train and only took a couple of seconds.
+* The other two classifiers were quicker to train.
 
 ### Results
 * The Results of each model were then saved into a .csv file which can be accessed through this github repo
