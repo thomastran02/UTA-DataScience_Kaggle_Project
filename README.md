@@ -8,7 +8,7 @@
 
 ## Summary
 ### Data
-* Some of the data used is the training set, testing set and description of the data which is also included in this repo.
+* The data used is the training set, testing set and description of the data which is also included in this repo.
 
 ### Processing/Clean-Up
 * The first step was reading the data into a Jupyter Notebook.
