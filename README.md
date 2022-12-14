@@ -8,7 +8,7 @@
 
 ## Summary
 ### Data
-* Some of the data used is the training set, testing set and description of the data which is also included in this repo.
+* The data used is the training set, testing set and description of the data which is also included in this repo.
 
 ### Processing/Clean-Up
 * The first step was reading the data into a Jupyter Notebook.
@@ -19,14 +19,14 @@
 * Visualized the data by putting the numerical and categorical data on a histogram as well as plotting numerical data against the sale_price for the training data.
 
 ### Problem Formulation
-* Three different models were utilized
+* Three different methods were utilized
 * First, used "GradientBoostingClassifier" and "RandomForestClassifier" because they were both mentioned on the Kaggle website.
-* Lastly, used "LinearDiscriminantAnalysis" as it was used in class
+* Lastly, used "LinearDiscriminantAnalysis".
 
 ### Training
 * The three models were trained using the curated data after the clean-up step.
 * The GradientBoostingClassifier took by far the longest to train, it nearly took 15 minutes for the model to finish training.
-* The other two classifiers were quicker to train and only took a couple of seconds.
+* The other two classifiers were quicker to train.
 
 ### Results
 * The Results of each model were then saved into a .csv file which can be accessed through this github repo
