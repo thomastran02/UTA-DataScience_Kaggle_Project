@@ -70,4 +70,4 @@ Lastly, the comparison of the different methods and their accuracy:
 ![Results](https://user-images.githubusercontent.com/98187543/207730359-1c2d87f3-7987-46cf-a77d-909fee70ebca.png)
 
 
-(All results can be found in this github repo.)
+(All results can be found in this github repository.)
