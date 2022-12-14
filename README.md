@@ -19,7 +19,7 @@
 * Visualized the data by putting the numerical and categorical data on a histogram as well as plotting numerical data against the sale_price for the training data.
 
 ### Problem Formulation
-* Three different models were utilized
+* Three different methods were utilized
 * First, used "GradientBoostingClassifier" and "RandomForestClassifier" because they were both mentioned on the Kaggle website.
 * Lastly, used "LinearDiscriminantAnalysis".
 
