@@ -31,7 +31,8 @@ The following is the distribution of all of the quantitative data for the traini
 Next, is plotting the quantitative data against the sale price in the training set:
 ![QuantVsSalePrice](https://user-images.githubusercontent.com/98187543/207727447-3b1e9ea4-156a-4bf9-b0eb-2b42aaa4a487.jpg)
 
-Now, let's take a look at specifically the year the home was built against the sale price:
+As seens above there seems to be a correlation between some of the variables. Thereofore, let's take a look at the year the home was built Vs the sale price:
+
 ![YrBuiltVsSalePrice](https://user-images.githubusercontent.com/98187543/207727610-02c578a6-9419-4ecb-bda1-82a165984d9e.jpg)
 
 Finally, visualizing the distribution of the categorical variables:
@@ -39,6 +40,7 @@ Finally, visualizing the distribution of the categorical variables:
 
 ### Problem Formulation
 * After processing and cleaning the data three different methods were utilized and trained to predict housing prices.
+
 The models trained:
 * Gradient Boosting
 * Linear Discriminant Analysis
